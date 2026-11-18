@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "id": "canton-deep-dive-token-standard-2026-12",
+      "title": "Canton Deep Dive: Token Standard V2",
+      "type": "deep-dive",
+      "description": "Walkthrough of Token Standard V2 and DvP settlement on Canton.",
+      "start": "2026-12-10T15:00:00Z",
+      "end": "2026-12-10T16:00:00Z",
+      "timezone": "UTC",
+      "format": "online",
+      "location": "Online",
+      "organizer": "Canton Foundation DevRel",
+      "link": "https://lu.ma/example",
+      "cta": "See Deep Dive",
+      "image": "https://dev-hub.canton.foundation/assets/events/deep-dive.png",
+      "featured": true
+    },
+    {
+      "id": "canton-hackathon-mumbai-2027-01",
+      "title": "Canton Hackathon Mumbai",
+      "type": "hackathon",
+      "description": "48-hour hackathon building on Canton Network.",
+      "start": "2027-01-15T04:30:00Z",
+      "end": "2027-01-17T12:30:00Z",
+      "timezone": "Asia/Kolkata",
+      "format": "in-person",
+      "location": "Mumbai, India",
+      "organizer": "Canton Foundation",
+      "link": "https://example.com/register",
+      "cta": "Join",
+      "image": "",
+      "featured": false
+    }
+  ]
+}
