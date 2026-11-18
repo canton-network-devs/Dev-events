@@ -15,22 +15,6 @@
       "cta": "See Deep Dive",
       "image": "https://dev-hub.canton.foundation/assets/events/deep-dive.png",
       "featured": true
-    },
-    {
-      "id": "canton-hackathon-mumbai-2027-01",
-      "title": "Canton Hackathon Mumbai",
-      "type": "hackathon",
-      "description": "48-hour hackathon building on Canton Network.",
-      "start": "2027-01-15T04:30:00Z",
-      "end": "2027-01-17T12:30:00Z",
-      "timezone": "Asia/Kolkata",
-      "format": "in-person",
-      "location": "Mumbai, India",
-      "organizer": "Canton Foundation",
-      "link": "https://example.com/register",
-      "cta": "Join",
-      "image": "",
-      "featured": false
     }
   ]
 }
