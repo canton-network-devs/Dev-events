@@ -1,6 +1,38 @@
 {
   "events": [
     {
+      "id": "canton-builder-breakfast-ethdenver-2026-02",
+      "title": "Canton - Builder Breakfast",
+      "type": "meetup",
+      "description": "A morning meetup at ETHDenver for developers building on, experimenting with, or curious about the Canton Network. No panels, no pitches: just builders comparing notes on privacy-enabled apps for institutional workflows, design patterns that balance privacy, compliance and interoperability, and how institutional models could carry over to DeFi.",
+      "start": "2026-02-20T16:30:00Z",
+      "end": "2026-02-20T19:30:00Z",
+      "timezone": "America/Denver",
+      "format": "in-person",
+      "location": "Denver, Colorado, USA",
+      "organizer": "Canton Foundation",
+      "link": "https://luma.com/dkze1sb3",
+      "cta": "View Event",
+      "image": "https://images.lumacdn.com/event-covers/x3/f37ca04d-da8c-4bd7-8266-c0e6fbac76b6.png",
+      "featured": false
+    },
+    {
+      "id": "canton-forum-singapore-2026-10",
+      "title": "Canton Forum",
+      "type": "forum",
+      "description": "An afternoon in Singapore with financial institutions, market infrastructure providers and ecosystem partners building on Canton, covering tokenization, capital markets, collateral, payments and interoperability. Panels on Asia's onchain adoption, the convergence of TradFi, DeFi and digital assets, and Singapore as a tokenized capital markets hub, followed by Canton Connect networking.",
+      "start": "2026-10-08T04:30:00Z",
+      "end": "2026-10-08T13:00:00Z",
+      "timezone": "Asia/Singapore",
+      "format": "in-person",
+      "location": "ArtScience Museum, 6 Bayfront Ave, Singapore",
+      "organizer": "Canton Foundation",
+      "link": "https://luma.com/4l2n6bjl",
+      "cta": "View Event",
+      "image": "https://images.lumacdn.com/uploads/qq/e3784bff-c996-4cab-912e-89c54a04d3e6.png",
+      "featured": false
+    },
+    {
       "id": "canton-deep-dive-token-standard-2026-12",
       "title": "Canton Deep Dive: Token Standard V2",
       "type": "deep-dive",
