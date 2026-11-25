@@ -1,20 +1,34 @@
 {
   "events": [
-    {
-      "id": "canton-deep-dive-token-standard-2026-12",
-      "title": "Canton Deep Dive: Token Standard V2",
-      "type": "deep-dive",
-      "description": "Walkthrough of Token Standard V2 and DvP settlement on Canton.",
-      "start": "2026-12-10T15:00:00Z",
-      "end": "2026-12-10T16:00:00Z",
-      "timezone": "UTC",
-      "format": "online",
-      "location": "Online",
-      "organizer": "Canton Foundation DevRel",
-      "link": "https://lu.ma/example",
-      "cta": "See Deep Dive",
-      "image": "https://dev-hub.canton.foundation/assets/events/deep-dive.png",
+ {
+      "id": "canton-builder-breakfast-ethdenver",
+      "title": "Canton Builder Breakfast",
+      "type": "meetup",
+      "description": "A morning meetup at ETHDenver for developers building on, experimenting with, or curious about the Canton Network. No panels, no pitches: just builders comparing notes on privacy-enabled apps for institutional workflows, design patterns that balance privacy, compliance and interoperability, and how institutional models could carry over to DeFi.",
+      "start": "2026-02-20T16:30:00Z",
+      "end": "2026-02-20T19:30:00Z",
+      "timezone": "America/Denver",
+      "format": "in-person",
+      "location": "Denver, Colorado, USA",
+      "organizer": "Canton Foundation",
+      "link": "https://luma.com/dkze1sb3",
+      "cta": "View Event",
       "featured": true
-    }
+    },
+    {
+      "id": "canton-forum-singapore",
+      "title": "Canton Forum",
+      "type": "conference",
+      "description": "An afternoon in Singapore with financial institutions, market infrastructure providers and ecosystem partners building on Canton, covering tokenization, capital markets, collateral, payments and interoperability. Panels on Asia's onchain adoption, the convergence of TradFi, DeFi and digital assets, and Singapore as a tokenized capital markets hub, followed by Canton Connect networking.",
+      "start": "2026-10-08T04:30:00Z",
+      "end": "2026-10-08T13:00:00Z",
+      "timezone": "Asia/Singapore",
+      "format": "in-person",
+      "location": "ArtScience Museum, 6 Bayfront Ave, Singapore",
+      "organizer": "Canton Foundation",
+      "link": "https://luma.com/4l2n6bjl",
+      "cta": "View Event",
+      "featured": true
+    },
   ]
 }
